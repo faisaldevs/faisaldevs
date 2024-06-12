@@ -1,12 +1,16 @@
 ![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo6ZZHuns-ra6qXugYhDCL8KrlOdpFLNlTAfc0UE9n48b7N-BWfRO4Ex0uCvT2ydIacdZPZLtAElzhj_d79-Aunwv92r0INgvjH_PDLfeWzs7j4ZfVbMshwYW9lOemdUQz8nr0YE3L-MDyggFpnB4_UDBpUyQcsDH_yQ6Mrcn8t_vQiYSUFBhIiS2S/s1600/Android-IO22AndroidDevRecap_Header.png)
 
 <h1 align="center">Hi 👋, I'm Faisal Ahamed</h1>
-<h3 align="center">A passionate flutter developer from Bangladesh.</h3>
-<image align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHoweDQzM2k4ZHpld3pzMHhoeHJ6NW1iazRrdXo3eHRoZTE0d3hrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- <h4 align="center">A Dedicated and passionate flutter developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh.</h4> -->
+<p> A Ddedicated and skilled <b>Flutter Developer</b> from <img src="assets/bangladesh.png" width="18"/> Bangladesh with 2 years of experience, currently working as a <b>Junior App Developer</b> at <b>Star IT Ltd</b>. Proficient in <b>Flutter</b>, <b>Dart</b>, <b>GetX</b>, <b>RESTful APIs</b></b>, and <b>Firebase.</b> Experienced in integrating external libraries to enhance app functionality. A self-learner committed to staying up-to-date with the latest industry trends and technologies. Passionate about delivering high-quality, responsive mobile applications for Android and iOS platforms. </p> </br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisaldevs&label=Profile%20views&color=0e75b6&style=flat" alt="faisaldevs" /> </p>
+:coffee: &emsp;Connect with me!
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sumit.analyzen) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitanalyzen/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/learnwithsumit) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sumit_analyzen) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayhitorainmaker@gmail.com)
+
+
+</br>
+
 
 - 🌱 I’m currently learning **Bloc , Firebase and Kotlin**
 
@@ -16,23 +20,90 @@
 
 - 📫 How to reach me **faisalah331@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/faisaldevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faisaldevs" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer">
- <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
- <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+
+
+
+<h3>Tecnologys i use</h3>
+
+![Static Badge](https://img.shields.io/badge/Flutter%20-%20%234472C4%20?style=for-the-badge&logo=Flutter&logoColor=%234472C4%20&labelColor=black&color=%234472C4%20)
+![Static Badge](https://img.shields.io/badge/Flutter%20-%20%234472C4%20?style=for-the-badge&logo=Flutter&logoColor=%234472C4%20&labelColor=black&color=%234472C4%20)
+![Static Badge](https://img.shields.io/badge/Flutter%20-%20%234472C4%20?style=for-the-badge&logo=Flutter&logoColor=%234472C4%20&labelColor=black&color=%234472C4%20)
+![Static Badge](https://img.shields.io/badge/Flutter%20-%20%234472C4%20?style=for-the-badge&logo=Flutter&logoColor=%234472C4%20&labelColor=black&color=%234472C4%20)
+![Static Badge](https://img.shields.io/badge/Flutter%20-%20%234472C4%20?style=for-the-badge&logo=Flutter&logoColor=%234472C4%20&labelColor=black&color=%234472C4%20)
+![Static Badge](https://img.shields.io/badge/Flutter%20-%20%234472C4%20?style=for-the-badge&logo=Flutter&logoColor=%234472C4%20&labelColor=black&color=%234472C4%20)
+![Static Badge](https://img.shields.io/badge/Flutter%20-%20%234472C4%20?style=for-the-badge&logo=Flutter&logoColor=%234472C4%20&labelColor=black&color=%234472C4%20)
+![Static Badge](https://img.shields.io/badge/Flutter%20-%20%234472C4%20?style=for-the-badge&logo=Flutter&logoColor=%234472C4%20&labelColor=black&color=%234472C4%20)
+
+
+
+</br>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisaldevs&label=Profile%20views&color=0e75b6&style=flat" alt="faisaldevs" /> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
+
+
+
+
+
+
+<h3>Tecnologys i use</h3>
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Projects</b></td>
+      <td><b>Description</b></td>
+      <td><b>Responses</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://learnwithsumit.com" target="_blank">Learn with Sumit</a></td>
+      <td>Programming related Learning Platform for Bangladesh</td>
+      <td>200K+ active learners</td>
+    </tr>
+    <tr>
+      <td><a href="https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme" target="_blank">Learn with Sumit Theme</a></td>
+      <td>Visual Studio Code Editor Theme</td>
+      <td>84K+ installs</td>
+    </tr>
+    <tr>
+      <td>Listenyzen</td>
+      <td>AI powered Social Media Customer Query Aggregator & Analytics SAAS tool</td>
+      <td>65+ clients</td>
+    </tr>
+    <tr>
+      <td><a href="https://analyzenbd.com" target="_blank">Analyzen</a></td>
+      <td>First ever & largest Digital Marketing Agency in Bangladesh</td>
+      <td>120+ clients</td>
+    </tr>
+    <tr>
+      <td>Prism</td>
+      <td>Complete Sales Automation & ERP Enterprise Solution for British American Tobacco Bangladesh</td>
+      <td>2.5k+ Distributors Nationwide</td>
+    </tr>
+    <tr>
+      <td>Unilever MARS</td>
+      <td>Activation Management Enterprise Solution for Unilever Bangladesh Ltd.</td>
+      <td>20 million+ Consumer Data Managed Already</td>
+    </tr>
+    <tr>
+      <td>Microzen</td>
+      <td>Microcredit Automation System with AI based Decision Support System</td>
+      <td>10 million+ Consumer Financial Data Managed Already</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<!--
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faisaldevs&show_icons=true&locale=en&layout=compact" alt="faisaldevs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisaldevs&show_icons=true&locale=en" alt="faisaldevs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisaldevs&" alt="faisaldevs" /></p>
+
+-->
