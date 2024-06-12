@@ -1,7 +1,7 @@
-![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo6ZZHuns-ra6qXugYhDCL8KrlOdpFLNlTAfc0UE9n48b7N-BWfRO4Ex0uCvT2ydIacdZPZLtAElzhj_d79-Aunwv92r0INgvjH_PDLfeWzs7j4ZfVbMshwYW9lOemdUQz8nr0YE3L-MDyggFpnB4_UDBpUyQcsDH_yQ6Mrcn8t_vQiYSUFBhIiS2S/s1600/Android-IO22AndroidDevRecap_Header.png)
+<!--![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo6ZZHuns-ra6qXugYhDCL8KrlOdpFLNlTAfc0UE9n48b7N-BWfRO4Ex0uCvT2ydIacdZPZLtAElzhj_d79-Aunwv92r0INgvjH_PDLfeWzs7j4ZfVbMshwYW9lOemdUQz8nr0YE3L-MDyggFpnB4_UDBpUyQcsDH_yQ6Mrcn8t_vQiYSUFBhIiS2S/s1600/Android-IO22AndroidDevRecap_Header.png)
 
 <h1 align="center">Hi 👋, I'm Faisal Ahamed</h1>
-<!-- <h4 align="center">A Dedicated and passionate flutter developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh.</h4> -->
+
 <p> A Ddedicated and skilled <b>Flutter Developer</b> from <img src="assets/bangladesh.png" width="18"/> Bangladesh with 2 years of experience, currently working as a <b>Junior App Developer</b> at <b>Star IT Ltd</b>. Proficient in <b>Flutter</b>, <b>Dart</b>, <b>GetX</b>, <b>RESTful APIs</b></b>, and <b>Firebase.</b> Experienced in integrating external libraries to enhance app functionality. A self-learner committed to staying up-to-date with the latest industry trends and technologies. Passionate about delivering high-quality, responsive mobile applications for Android and iOS platforms. </p> </br>
 
 :coffee: &emsp;Connect with me!
@@ -40,7 +40,7 @@
 </br>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisaldevs&label=Profile%20views&color=0e75b6&style=flat" alt="faisaldevs" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 
@@ -95,7 +95,7 @@
     </tr>
   </tbody>
 </table>
-
+-->
 
 
 <!--
