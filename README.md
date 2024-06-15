@@ -34,6 +34,7 @@
 
  <hr/>
  
+ 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -44,6 +45,45 @@
 
 <br/>
 <hr/>
+
+
+<h3>Tecnologys i use</h3>
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Projects Name</b></td>
+      <td><b>Description</b></td>
+      <td><b>Status</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/faisaldevs/Blood-BD---app" target="_blank"><b>Blood BD</b></a></td>
+      <td>Programming related Learning Platform for Bangladesh</td>
+      <td><b>completed</b></td>
+    </tr>
+    <tr>
+      <td><a href="https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme" target="_blank">Learn with Sumit Theme</a></td>
+      <td>Visual Studio Code Editor Theme</td>
+      <td>84K+ installs</td>
+    </tr>
+    <tr>
+      <td>Listenyzen</td>
+      <td>AI powered Social Media Customer Query Aggregator & Analytics SAAS tool</td>
+      <td>65+ clients</td>
+    </tr>
+    <tr>
+      <td><a href="https://analyzenbd.com" target="_blank">Analyzen</a></td>
+      <td>First ever & largest Digital Marketing Agency in Bangladesh</td>
+      <td>120+ clients</td>
+    </tr>
+    
+  </tbody>
+</table>
+
+<hr/>
+
 
 <!--
 <div align="center">
