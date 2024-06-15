@@ -41,13 +41,6 @@
 
 ![Static Badge](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=blue&labelColor=black) ![Static Badge](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=Dart&logoColor=blue&labelColor=lightblue) ![Static Badge](https://img.shields.io/badge/GetX-%23bd0eb2?style=for-the-badge&logo=getx&logoColor=blue&labelColor=white) ![Static Badge](https://img.shields.io/badge/Riverpod-%2347d1fd?style=for-the-badge&logoColor=blue&labelColor=white) ![Static Badge](https://img.shields.io/badge/RESTful%20API-%2390f4f1?style=for-the-badge&logoColor=blue&labelColor=white) ![Static Badge](https://img.shields.io/badge/firebase%20-%23ffc400?style=for-the-badge&logo=firebase&labelColor=white) <br/> ![Static Badge](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=%23e84e31&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=black&labelColor=white) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) ![Static Badge](https://img.shields.io/badge/Android%20Studio%20-%20green?style=for-the-badge&logo=androidstudio&logoColor=green&logoSize=white&labelColor=white)
-
-
-
-
-
-
-
     
 </div>
 
@@ -55,7 +48,7 @@
 <hr/>
 
 
-<h3>Tecnologys i use</h3>
+<h3> Project Works </h3>
 
 <table>
   <thead align="center">
