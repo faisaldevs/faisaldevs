@@ -38,9 +38,16 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,getX,firebase" /> <img src="assets/riverpod .png" width="55" />
-  <img src="https://skillicons.dev/icons?i=flutter,dart,getX,firebase,riverpod,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+
+![Static Badge](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=blue&labelColor=black) ![Static Badge](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=Dart&logoColor=blue&labelColor=lightblue) ![Static Badge](https://img.shields.io/badge/GetX-%23bd0eb2?style=for-the-badge&logo=getx&logoColor=blue&labelColor=white) ![Static Badge](https://img.shields.io/badge/Riverpod-%2347d1fd?style=for-the-badge&logoColor=blue&labelColor=white) ![Static Badge](https://img.shields.io/badge/RESTful%20API-%2390f4f1?style=for-the-badge&logoColor=blue&labelColor=white) ![Static Badge](https://img.shields.io/badge/firebase%20-%23ffc400?style=for-the-badge&logo=firebase&labelColor=white) <br/> ![Static Badge](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=%23e84e31&labelColor=white)
+![Static Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=black&labelColor=white) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+
+
+
+
+
+
+    
 </div>
 
 <br/>
