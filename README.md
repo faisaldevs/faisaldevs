@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working at **[Star It Ltd](https://github.com/salesp07/salesp07/issues)**
  
  🌱 I’m currently learning **Riverpod, Clean Architecture , JavaScript**
 
