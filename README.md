@@ -10,13 +10,15 @@
 
 <div align="center">
  
- 🔭 I’m currently working at **[Star It Ltd](https://github.com/salesp07/salesp07/issues)**
- 
- 🌱 I’m currently learning **Riverpod, Clean Architecture , JavaScript**
+🔭&emsp; I’m currently working at **[Star It Ltd](https://staritltd.com/)** <br/>
 
-💬 Ask me about **Flutter, Dart, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+🌱&emsp; I’m currently learning **Riverpod, Clean Architecture , JavaScript** <br/>
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬&emsp; Ask me about **Flutter, Dart, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)** <br/>
+
+📧&emsp;How to reach me: faisalah.dev@gmail.com <br/>
+
+⚡&emsp; Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** <br/>
 
  </div>
  
@@ -24,7 +26,7 @@
   <a href="mailto:faisalah.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/faisaldevs/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/faisaldevs" target="_blank">
