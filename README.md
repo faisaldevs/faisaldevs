@@ -52,7 +52,8 @@
 
 <h3> Project Works </h3>
 
-<table>
+<div align="center">
+    <table>
   <thead align="center">
     <tr border: none;>
       <td><b>Projects Name</b></td>
@@ -74,6 +75,7 @@
     
   </tbody>
 </table>
+</div>
 
 <hr/>
 
