@@ -50,9 +50,10 @@
 <hr/>
 
 
-<h3> Project Works </h3>
+
 
 <div align="center">
+    <h3> Project Works </h3>
     <table>
   <thead align="center">
     <tr border: none;>
