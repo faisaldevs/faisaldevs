@@ -69,7 +69,7 @@
     <tr>
       <td><a href="" target="_blank">Star_Courier</a></td>
       <td>Courier Management App</td>
-      <td>84K+ installs</td>
+      <td> Running </td>
     </tr>
     
   </tbody>
