@@ -69,9 +69,9 @@
       <td><b>completed</b></td>
     </tr>
     <tr>
-      <td><a href="" target="_blank">Star_Courier</a></td>
+      <td><b>Star_Courier</td>
       <td>Courier Management App</td>
-      <td> Running </td>
+      <td> In Progress </td>
     </tr>
     
   </tbody>
