@@ -64,7 +64,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/faisaldevs/Blood-BD---app" target="_blank"><b>Blood BD</b></a></td>
+      <td><a href="https://drive.google.com/drive/folders/1QeVtntT-d7HIyX7IHpfsjKqbtvoDzWzO?usp=drive_link" target="_blank"><b>Blood BD</b></a></td>
       <td>Blood Donation App</td>
       <td><b>completed</b></td>
     </tr>
