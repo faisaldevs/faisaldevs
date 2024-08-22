@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
  
 🔭&emsp; I’m currently working at **[Star It Ltd](https://staritltd.com/)** <br/>
 
