@@ -10,15 +10,17 @@
 
 <div align="left">
  
-🔭&emsp; I’m currently working at **[Star It Ltd](https://staritltd.com/)** <br/>
+🔭&emsp; I’m currently working at **[Star It Ltd](https://staritltd.com/)** a Software Company in Bangladesh <br/>
 
-🌱&emsp; I’m currently learning **Riverpod, Clean Architecture , JavaScript** <br/>
+⚒&emsp; I’m currently working on **Star Courier - A Courier Management App** <br/>
 
-💬&emsp; Ask me about **Flutter, Dart, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)** <br/>
+📖&emsp; I’m currently learning **Riverpod, Clean Architecture , Python** <br/>
+
+<!--💬&emsp; Ask me about **Flutter, Dart, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)** <br/>-->
 
 📧&emsp;How to reach me: faisalah.dev@gmail.com <br/>
 
-⚡&emsp; Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** <br/>
+⚡&emsp; Fun fact **Luffy was inspired by Goku of Dragon Ball** 😅😅 Anime stuff <br/>
 
  </div>
  
