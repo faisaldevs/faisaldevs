@@ -10,7 +10,7 @@
 
 <div align="left">
  
-🔭&emsp; I’m currently working at **[Star It Ltd](https://staritltd.com/)** a Software Company in Bangladesh <br/>
+🔭&emsp; I’m currently working at **[bdCalling IT Ltd (Softvence)](https://bdcalling.com/)**AN INTERNATIONAL DIGITAL SERVICE PROVIDER <br/>
 
 ⚒&emsp; I’m currently working on **Star Courier - A Courier Management App** <br/>
 
